@@ -1,0 +1,14 @@
+{
+  "name": "puppet-cupsclient",
+  "version": "0.1.0",
+  "author": "Brad Cowie",
+  "summary": "Puppet module that configures /etc/cups/client.conf",
+  "license": "Apache-2.0",
+  "source": "https://github.com/gizmoguy/puppet-cupsclient",
+  "project_page": "https://github.com/gizmoguy/puppet-cupsclient",
+  "issues_url": "https://github.com/gizmoguy/puppet-cupsclient/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
